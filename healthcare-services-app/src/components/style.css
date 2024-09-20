@@ -1,0 +1,79 @@
+/* General container styling */
+.container {
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .heading {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Form styles */
+  .form {
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .btn {
+    padding: 10px 15px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Service card styles */
+  .service-card {
+    border: 5px solid black;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .service-name {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .service-description {
+    margin-bottom: 10px;
+  }
+  
+  .service-price {
+    font-weight: bold;
+  }
+.btn-delete {
+    padding: 5px 10px;
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  
+  .btn-delete:hover {
+    background-color: #c82333;
+  }
+  
